@@ -1,0 +1,60 @@
+QUOTES = [
+    # Discipline & Reality
+    "No one is coming to save you.",
+    "Your future is decided by what you do today.",
+    "You already know what to do. You’re just not doing it.",
+    "Excuses feel good. Results don’t.",
+    "Being tired is not a reason. It’s an excuse.",
+    "You don’t lack time. You lack priority.",
+    "Your habits are voting for your future every day.",
+    "Stop waiting for motivation. It’s unreliable.",
+    "You are not special. Work like everyone else who succeeded.",
+    "Comfort today is regret tomorrow.",
+
+    # Time & Regret
+    "Every minute you waste is gone forever.",
+    "One day you’ll wish you started today.",
+    "The clock doesn’t care about your mood.",
+    "You are aging whether you work or not.",
+    "Regret hurts longer than effort.",
+    "Procrastination is stealing from your future.",
+    "You don’t get time back.",
+    "Days pass. Progress doesn’t happen automatically.",
+    "The deadline is real. Your excuses aren’t.",
+    "Later is a lie.",
+
+    # Failure & Accountability
+    "If it didn’t work, look in the mirror.",
+    "You are exactly where your effort put you.",
+    "Failure is earned.",
+    "Blaming others won’t fix your life.",
+    "Luck favors consistency.",
+    "Results expose effort.",
+    "No output means no input.",
+    "If it matters, prove it.",
+    "Talk less. Execute more.",
+    "Your actions reveal your priorities.",
+
+    # Pain & Growth
+    "Growth hurts. That’s the price.",
+    "Discipline is choosing pain now over regret later.",
+    "If it’s uncomfortable, you’re probably doing it right.",
+    "Easy choices, hard life.",
+    "Hard choices, easy life.",
+    "Suffer now or suffer later.",
+    "You can’t escape effort.",
+    "Pain builds discipline. Comfort kills it.",
+    "The grind is the filter.",
+    "Strength comes from consistency, not talent.",
+
+    #BRUTAL ENDERS
+    "Average is a choice.",
+    "You’re not stuck. You’re comfortable.",
+    "Nobody remembers potential.",
+    "You either improve or fall behind.",
+    "No discipline, no future.",
+    "Stop lying to yourself.",
+    "The work doesn’t care how you feel.",
+    "If you quit now, nothing changes.",
+    "This is why others get ahead.",
+    "Read this again and start working."]
