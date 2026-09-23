@@ -5,6 +5,7 @@ import data_store as d
 
 
 points_target =0
+day =1
 data = d.get_today_sum()
 total_tdy_seconds = data["seconds"]
 total_tdy_hrs = total_tdy_seconds//3600
